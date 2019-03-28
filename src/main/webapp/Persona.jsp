@@ -48,7 +48,7 @@
 
 				<p>
 					<input type="hidden" id="accion" name="accion">
-					<button type="submit" onclick="setAccion('accion','E')">Guardar</button>
+					<button type="submit" onclick="setAccion('accion','N')">Guardar</button>
 					<button type="reset">Borrar</button>
 					<button type="reset" onclick="controlConsulta()">Volver</button>
 			</form>
